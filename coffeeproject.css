@@ -1,0 +1,48 @@
+.resize {
+	height: 150px;
+	width: 175px;
+}
+
+.left{
+	height: 250px;
+	width: 175px;
+	float: left;
+	text-align: center;
+	}
+
+.middle{
+	height: 250px;
+	width: 175px;
+	padding-right: 15px;
+	padding-left: 15px;
+	text-align: center;
+	
+	float: left;
+	
+
+}
+
+.right{
+	height: 250px;
+	width: 175px;
+	float: left;
+	text-align: center;
+}
+	
+
+
+body {
+	background-color: blue;
+}
+
+img {
+
+	max-width: 100%;
+}
+
+.container {
+
+	margin: 0 auto;
+	width: 700px;
+
+}
